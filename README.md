@@ -18,6 +18,18 @@
 </div>
 
       
-   
+<div align="center">
+  <h1>해결 방법</h1>
+  <table>
+    <tr>
+      <ol>
+        <ul>구글링을 통해 문제 원인을 파악</ul>
+        <ul>구글링을 통해 발견한  해결책을 코드에 적용</ul>
+      </ol>  
+    </tr>
+  </table>
+
+
+</div>   
       
 
